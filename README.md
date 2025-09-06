@@ -64,7 +64,7 @@ Known issues:
 Turn on: **INS**
 Unload: **END**
 
-You can take any Manual Map injector into the game
+You can take any Manual Map injector
 
  Functions:
    AIM
