@@ -24,6 +24,9 @@ Simple Pixel Gun 3D cheat
 Известные проблемы:
  Код нестабилен и сделан очень плохо, **возмножны вылеты,сбои,краши игры** (поэтому рекомендуется включать **СНАЧАЛА** ESP, а потом AIM), вы можете предложить (не очень сообразительному) мне свои идеи и решения проблем.
 
+Включить: **INS**
+Выгрузить: **END**
+
  Функции:
    AIM
    ESP
@@ -56,6 +59,9 @@ Projects/libraries used:
 Known issues:
  The code is unstable and very poorly made, **there are numerous crashes, crashes, crashes of the game** (therefore it is recommended to include **FIRST** ESP, and then AIM), you can suggest (not very savvy) I have my own ideas and solutions to problems.
 
+Turn on: **INS**
+Unload: **END**
+ 
  Functions:
    AIM
    ESP
