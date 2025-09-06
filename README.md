@@ -27,6 +27,8 @@ Simple Pixel Gun 3D cheat
 Включить: **INS**
 Выгрузить: **END**
 
+Для загрузки .dll в игру можете взять любой Manual Map injector
+
  Функции:
    AIM
    ESP
@@ -61,7 +63,9 @@ Known issues:
 
 Turn on: **INS**
 Unload: **END**
- 
+
+You can take any Manual Map injector into the game
+
  Functions:
    AIM
    ESP
