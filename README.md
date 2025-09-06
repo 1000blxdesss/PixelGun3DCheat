@@ -1,7 +1,7 @@
 # PixelGun3DCheat
 Simple Pixel Gun 3D cheat
 
-
+---------------------------------------------------------------
 **Дисклеймер**
 
 ВНИМАНИЕ: Этот проект создан исключительно в образовательных и исследовательских целях.
@@ -12,7 +12,28 @@ Simple Pixel Gun 3D cheat
 Автор не несет ответственности за любые последствия, связанные с использованием этого кода, включая, но не ограничиваясь, бан аккаунтов, потерю данных, юридические последствия или любой другой ущерб.
 Пользователь, скачивающий, компилирующий или использующий этот код, делает это на **свой страх и риск** и несет полную ответственность за свои действия.
 Использование читов или модификаций в онлайн-играх может привести к блокировке аккаунта, временным или постоянным банам, а также к юридическим последствиям в зависимости от юрисдикции.
+---------------------------------------------------------------
 
+Используемые проекты/библиотеки:
+  1) https://github.com/ocornut/imgui
+  2) https://github.com/stanuwu/PixelGunCheatInternal
+  3) https://github.com/TsudaKageyu/minhook
+  4) https://github.com/sneakyevil/IL2CPP_Resolver
+  5) https://github.com/issuimo/UnityResolve.hpp
+Известные проблемы:
+ Код нестабилен и сделан очень плохо, **возмножны вылеты,сбои,краши игры** (поэтому рекомендуется включать **СНАЧАЛА** ESP, а потом AIM), вы можете предложить (не очень сообразительному) мне свои идеи и решения проблем.
+
+ Функции:
+   AIM
+   ESP
+   Tracers
+   NoClip
+   SpeedHack
+   Camera change
+   
+<img width="508" height="376" alt="image" src="https://github.com/user-attachments/assets/13078062-da29-4c92-8772-583d6023ff50" />
+
+---------------------------------------------------------------
 **Disclaimer**
 
 ATTENTION: This project was created solely for educational and research purposes.
@@ -23,3 +44,20 @@ Responsibility
 The author is not responsible for any consequences related to the use of this code, including, but not limited to, account ban, data loss, legal consequences or any other damage.
 The user downloading, compiling or using this code does so at **his own risk** and bears full responsibility for his actions.
 The use of cheats or modifications in online games can lead to account blocking, temporary or permanent bans, as well as legal consequences depending on the jurisdiction.
+---------------------------------------------------------------
+Projects/libraries used:
+  1) https://github.com/ocornut/imgui
+  2) https://github.com/stanuwu/PixelGunCheatInternal
+  3) https://github.com/TsudaKageyu/minhook
+  4) https://github.com/sneakyevil/IL2CPP_Resolver
+  5) https://github.com/issuimo/UnityResolve.hpp
+Known issues:
+ The code is unstable and very poorly made, **there are numerous crashes, crashes, crashes of the game** (therefore it is recommended to include **FIRST** ESP, and then AIM), you can suggest (not very savvy) I have my own ideas and solutions to problems.
+
+ Functions:
+   AIM
+   ESP
+   Tracers
+   NoClip
+   SpeedHack
+   Camera change
