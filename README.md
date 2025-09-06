@@ -57,7 +57,7 @@ Projects/libraries used:
   5) https://github.com/issuimo/UnityResolve.hpp
 
 Known issues:
- The code is unstable and very poorly made, **there are numerous crashes, crashes, crashes of the game** (therefore it is recommended to include **FIRST** ESP, and then AIM), you can suggest (not very savvy) I have my own ideas and solutions to problems.
+ The code is unstable and very poorly made, **there are numerous crashes of the game** (therefore it is recommended to include **FIRST** ESP, and then AIM), you can suggest (not very savvy) I have my own ideas and solutions to problems.
 
 Turn on: **INS**
 Unload: **END**
